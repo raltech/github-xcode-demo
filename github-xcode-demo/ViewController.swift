@@ -21,8 +21,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    //this is version 1.0.2
-    //fix small bugs
+    //this is version 1.0.3
+    //branch is hotfix-transition_issue
+    //fixed transition issue
 
 }
 
