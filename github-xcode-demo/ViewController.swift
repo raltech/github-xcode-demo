@@ -22,7 +22,6 @@ class ViewController: UIViewController {
     }
 
     //this is version 1.0.3
-    //branch is hotfix-transition_issue
     //fixed transition issue
 
 }
