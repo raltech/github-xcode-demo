@@ -21,8 +21,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    //this is version 1.0.1
-    //new features added!!
+    //this is version 1.0.2
+    //fix small bugs
 
 }
 
